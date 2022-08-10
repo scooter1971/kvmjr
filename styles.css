@@ -1,0 +1,150 @@
+.top-container{
+
+}
+
+
+.middle-container {
+  margin: 100px; 0px;
+
+  }
+
+.bottom-container {
+
+  background-color: #66BFBF;
+  line-height: 2;
+  margin: 5% auto;
+
+
+}
+.pro {
+  text-decoration: underline;
+}
+body{
+  color: #40514E;
+
+  font: 200px;S
+
+  margin: 0px;
+  text-align: center;
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hind+Siliguri&family=Kanit:wght@300&display=swap" rel="stylesheet">
+
+}
+h1 {
+
+  line-height: 2;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin 50px auto 0 auto;
+  color:  #66BFBF;
+
+
+
+}
+
+hr {
+
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.bottom-cloud {
+
+  position: absolute;
+  left: 300px;
+  top: 250px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+
+h2 {
+
+  font-size: 2.5rem;
+  color: black;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+
+  color: #40514E;
+
+
+}
+
+.skill-row {
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+
+.pm {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+
+}
+
+p {
+
+  line-height: 2;
+
+}
+
+.algorithims {
+
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+
+}
+.vp {
+
+  border-radius: 25%;
+}
+
+.intro {
+
+  width: 30%;
+  margin: auto;
+
+}
+
+
+
+.btn {
+  font-size:30px;
+  font-family:Sacramento;
+  width:300px;
+  height:100px;
+  border-width:5px;
+  color:rgba(0, 0, 0, 1);
+  border-color:#d6bcd6;
+  font-weight:bold;
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  box-shadow: 3px 4px 0px 0px #899599;
+  text-shadow: 0px 1px 0px #e1e2ed;
+  background:linear-gradient(#ededed, #bab1ba);
+}
+
+.btn:hover {
+  background: linear-gradient(#bab1ba, #ededed);
+}
